@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vasIvanov
+- 👋 Hi, I’m Vasil Ivanov
 - 👀 I’m interested in ReactJS and JavaScript in general
 - 🌱 I’m currently expanding my skill in ReactJS
 - 📫 How to reach me: vasivanov.info@gmail.com
